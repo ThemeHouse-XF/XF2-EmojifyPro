@@ -1,0 +1,1 @@
+A list of classes that should be skipped by the emoji parser. Content of any element that matches one of the provided css classes will not be affected by the emojification. One per line.

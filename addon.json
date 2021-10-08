@@ -1,0 +1,14 @@
+{
+    "legacy_addon_id": "",
+    "title": "[TH] Emojifi Pro",
+    "description": "Embrace the future of communication!",
+    "version_id": 1000370,
+    "version_string": "1.0.3",
+    "dev": "ThemeHouse",
+    "dev_url": "https://www.themehouse.com",
+    "faq_url": "",
+    "support_url": "",
+    "extra_urls": [],
+    "require": [],
+    "icon": "icon.png"
+}

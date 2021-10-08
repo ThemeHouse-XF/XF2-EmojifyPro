@@ -1,0 +1,25 @@
+#th_emojifyProTrigger {
+	&:not(.enabled):not(.disabled) {
+		display: none;
+	}
+	
+	&.enabled {
+		.fa {
+			color: #F44336;
+		}
+		
+		.disabled {
+			display: none;
+		}
+	}
+	
+	&.disabled {
+		.fa {
+			color: #4CAF50;
+		}
+		
+		.enabled {
+			display: none;
+		}
+	}
+}

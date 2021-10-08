@@ -1,0 +1,9 @@
+{
+    "template": "PAGE_CONTAINER",
+    "description": "Applies awesomeness. [02]",
+    "execution_order": 10,
+    "enabled": true,
+    "action": "str_replace",
+    "find": "<ul class=\"p-footer-linkList\">",
+    "replace": "$0\n<li>\n\t<a href=\"#\" rel=\"nofollow\" id=\"th_emojifyProTrigger\">\n\t\t<span class=\"enabled\">\n\t\t\t<i class=\"fa fa-times fal\"></i>\n\t\t\t{{ phrase('th_emojify_pro_enabled') }}\n\t\t</span>\n\t\t<span class=\"disabled\">\n\t\t\t<i class=\"fa fa-check fal\"></i>\n\t\t\t{{ phrase('th_emojify_pro_disabled') }}\n\t\t</span>\n\t</a>\n</li>\n<xf:css src=\"th_emojifypro.less\" />"
+}

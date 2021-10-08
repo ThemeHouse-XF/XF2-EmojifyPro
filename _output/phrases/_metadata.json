@@ -1,0 +1,68 @@
+{
+    "option.th_emojifyProSelector.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "0c3cd33e7bf626da4897316a7158a7a4"
+    },
+    "option.th_emojifyProTraining.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "20545a5bf205b14e553b07c26b17c45b"
+    },
+    "option.themojifyproSkip.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "c1488e07db95c034992b3041a2ff8503"
+    },
+    "option_explain.th_emojifyProSelector.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "a39c5e0c7a85e649fbe06c4a30517137"
+    },
+    "option_explain.th_emojifyProTraining.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "0396f429366eb335d5af8e060b840f72"
+    },
+    "option_explain.themojifyproSkip.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "c35a49f37c281a64b493e2a374cfa1d8"
+    },
+    "option_group.themojifypro.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "d7e27ce8e8d0ddd814706558c5536f4c"
+    },
+    "option_group_description.themojifypro.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "31fe1ba27a86db21e4c4145e8e038cb9"
+    },
+    "permission.themojifyPro_themojifyPro.txt": {
+        "global_cache": false,
+        "version_id": 1000170,
+        "version_string": "1.0.1",
+        "hash": "0864c8df2013c86798bd9882af701ea0"
+    },
+    "th_emojify_pro_disabled.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "5ddf6d734927e26ea84b183ce25938b3"
+    },
+    "th_emojify_pro_enabled.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "96b79de77e5071955daaae3ff268fbbb"
+    }
+}
